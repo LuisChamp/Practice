@@ -6,3 +6,11 @@ h1 {
   color: black;
   font-size: 1.2em;
 }
+
+header {
+  background-color: brown;
+}
+
+a {
+  font-size: 0.8em;
+}
