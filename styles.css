@@ -14,3 +14,7 @@ header {
 a {
   font-size: 0.8em;
 }
+
+label {
+  display: inline-block;
+}
